@@ -2,5 +2,5 @@
 
 
 
-** 1. Desing patterns in Machine Learning **
-** 2. Approaching almost any Machine Learning problem **
++ ** 1. Desing patterns in Machine Learning **
++ ** 2. Approaching almost any Machine Learning problem **
